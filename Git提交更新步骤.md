@@ -1,5 +1,7 @@
 # Git提交更新步骤
 
+## 提交过一次之后，可以从Step4开始操作，前三步已经保存了
+
 ## Step 1 下载git工具
 
 **下载地址：[Git - Install for Windows**](https://git-scm.com/install/windows)
